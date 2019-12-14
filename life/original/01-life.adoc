@@ -5,6 +5,7 @@ and he delights in his way.
 He is his strength in the time of trouble.
 ____
 
+[#roberts, short="The Life of John Roberts"]
 == Memoirs of the Life of John Roberts by His Son Daniel Roberts
 
 I HAVE had it on my mind, for some years past,
@@ -141,7 +142,7 @@ As he passed the market-place, the tie of his shoe slackened;
 and while he stooped down to fasten it,
 a man came behind him and struck him on the back a hard blow with a stone, saying, there,
 take that for Jesus Christ`'s sake.
-He answered, so I do, not looking back to see who it was, but quietly ffoing on his way.
+He answered, so I do, not looking back to see who it was, but quietly going on his way.
 A few days after a man came and asked him forgiveness;
 telling him he was the unhappy man that gave him the blow on his back,
 and he could have no rest since he had done it.
@@ -182,20 +183,28 @@ asked him if he was willing to have his liberty to go home to his wife and famil
 Upon what terms, uncle?
 said my father.
 
-Justice: Upon such terms, that the jailer open the door and let you out.
+[.discourse-part]
+__Justice:__ Upon such terms, that the jailer open the door and let you out.
 
-John Roberts: What! without entering into any recognizance?
-Justice: Yes.
+[.discourse-part]
+__John Roberts:__ What! without entering into any recognizance?
 
-John Roberts: Then I accept of my liberty.
+[.discourse-part]
+__Justice:__ Yes.
 
+[.discourse-part]
+__John Roberts:__ Then I accept of my liberty.
 But I admire, uncle,
 how thou and several others could sit upon the bench as with your thumbs in your mouths,
 when you should speak a word in behalf of the innocent.
 
-Justice: You must learn to live under a law, cousin.
+[.discourse-part]
+__Justice:__ You must learn to live under a law, cousin.
 And if you will accept of your liberty till next sessions, you may have it; if not,
 stay where you are.
+
+[.small-break]
+'''
 
 So they parted; and on the morrow my father went home, having also the jailer`'s leave.
 
@@ -238,16 +247,24 @@ he went to the groom, and desired him to put up his horse.
 While this was doing, the justice`'s son and his clerk came up, the latter roughly said,
 "`I thought you had been in Gloucester, castle.`"
 
-John Roberts: So I was.
+[.discourse-part]
+__John Roberts:__ So I was.
 
-Clerk: And how came you out?
+[.discourse-part]
+__Clerk:__ And how came you out?
 
-John Roberts: When thou hast authority to demand it, I can give thee an answer;
+[.discourse-part]
+__John Roberts:__ When thou hast authority to demand it, I can give thee an answer;
 but my business is with thy master, if I may speak with him.
 
-Clerk: You may, if you will promise to be civil.
+[.discourse-part]
+__Clerk:__ You may, if you will promise to be civil.
 
-John Roberts: If thou seest me uncivil, I desire thee to tell me of it.
+[.discourse-part]
+__John Roberts:__ If thou seest me uncivil, I desire thee to tell me of it.
+
+[.small-break]
+'''
 
 They went in; and my father following them, they bid him take a turn in the hall,
 and they would acquaint the justice of his being there.
@@ -314,10 +331,15 @@ My father replied, I do not know that I owe any man here any thing but love,
 and must I now purchase my liberty with money?
 I do not accept it on such terms.
 
-Clerk: (to the chairman.) An`'t please your worship,
+[.discourse-part]
+__Clerk:__ (to the chairman.) An`'t please your worship,
 John will not pay the fees of the court.
 
-John Roberts: I do not accept my liberty on such terms.
+[.discourse-part]
+__John Roberts:__ I do not accept my liberty on such terms.
+
+[.small-break]
+'''
 
 Then he was ordered to prison with the three Friends.
 But in the evening the clerk discharged them,
@@ -357,70 +379,96 @@ to see how the Quaker would greet her.
 
 He went up towards her, and bluntly said, "`Woman, wouldst thou speak with me?`"
 
-Lady: What is your name.
+[.discourse-part]
+__Lady:__ What is your name.
 
-John Roberts: My name is John Roberts,
+[.discourse-part]
+__John Roberts:__ My name is John Roberts,
 but I am commonly known by the name of John Haywood in the place where I live.
 
-Lady: Where do you live?
+[.discourse-part]
+__Lady:__ Where do you live?
 
-John Roberts: At a village called Siddington, about a mile distant from this town.
+[.discourse-part]
+__John Roberts:__ At a village called Siddington, about a mile distant from this town.
 
-Lady: Are you the man that keeps conventicles at your house?
+[.discourse-part]
+__Lady:__ Are you the man that keeps conventicles at your house?
 
-John Roberts: The church of Christ does often meet at my house.
+[.discourse-part]
+__John Roberts:__ The church of Christ does often meet at my house.
 I presume I am the man that thou meanest.
 
-Lady: What do you lie in prison for?
+[.discourse-part]
+__Lady:__ What do you lie in prison for?
 
-John Roberts: Because, for conscience-sake,
+[.discourse-part]
+__John Roberts:__ Because, for conscience-sake,
 I cannot pay an hireling priest what he demands of me; therefore he,
 like the false prophets of old, prepares war against me,
 because I cannot put into his mouth.
 
-Lady: By what I have heard of you, I took you to be a wise man,
+[.discourse-part]
+__Lady:__ By what I have heard of you, I took you to be a wise man,
 and if you could not pay him yourself, you might let somebody else pay him for you.
 
-John Roberts: That would be underhand dealing, and I had rather pay him myself,
+[.discourse-part]
+__John Roberts:__ That would be underhand dealing, and I had rather pay him myself,
 than be such a hypocrite.
 
-Lady: Then suppose some neighbour or friend should pay him for you, unknown to you,
+[.discourse-part]
+__Lady:__ Then suppose some neighbour or friend should pay him for you, unknown to you,
 you would choose not to lie in prison when you might have your liberty.
 
-John Roberts: I am very well content where I am,
+[.discourse-part]
+__John Roberts:__ I am very well content where I am,
 till it shall please God to make way for my freedom.
 
-Lady: I have a mind to set you at liberty, that I may have some of your company,
+[.discourse-part]
+__Lady:__ I have a mind to set you at liberty, that I may have some of your company,
 which I cannot well have while you are in the prison.
+
+[.small-break]
+'''
 
 Then, speaking to her man, she bid him go to the priest`'s attorney,
 and tell him she would satisfy him,
 and then pay the jailer his fees and get a horse
 for my father to go to Down-Amney with her.
 
-John Roberts: If thou art a charitable woman, as I take thee to be,
+[.discourse-part]
+__John Roberts:__ If thou art a charitable woman, as I take thee to be,
 there are abroad in the world many real objects of charity on whom to bestow thy bounty;
 but to feed such devourers as these, I do not think to be charity.
 They are like Pharaoh`'s lean kine; they eat up the fat and the goodly,
 and look not a whit the better.
 
-Lady: Well; I would have you get ready to go with us.
+[.discourse-part]
+__Lady:__ Well; I would have you get ready to go with us.
 
-John Roberts:
+[.discourse-part]
+__John Roberts:__
 I do not know thou art like to have me when thou hast bought and paid for me;
 for if I may have my liberty,
 I shall think it my place to be at home with my wife and family.
 But if thou desirest it, I intended to come and see thee at Down-Amney some other time.
 
-Lady: That will suit me better.
+[.discourse-part]
+__Lady:__ That will suit me better.
 But set your time, and I will lay aside all other business to have your company.
 
-John Roberts: If it please God to give me life, health and liberty,
+[.discourse-part]
+__John Roberts:__ If it please God to give me life, health and liberty,
 I intend to come on seventh-day next, the day thou callest Saturday.
 
-Lady: Is that as far as you used to promise?
+[.discourse-part]
+__Lady:__ Is that as far as you used to promise?
 
-John Roberts: Yes.
+[.discourse-part]
+__John Roberts:__ Yes.
+
+[.small-break]
+'''
 
 According to his appointment, my father went;
 and found her very inquisitive about the things of God,
@@ -450,14 +498,16 @@ But do you beckon John out, and bring him to me first up the back stairs.`"
 When my father came up, she told him she had been very ill in a fit of the stone,
 and said, "`I have heard you have done good in many distempers.`"
 
-John Roberts: I confess I have; but to this of the stone I am a stranger.
+[.discourse-part]
+__John Roberts:__ I confess I have; but to this of the stone I am a stranger.
 Indeed I once knew a man, who lived at ease and fared delicately, as thou mayest do,
 and whilst he continued in that practice he was much afflicted with that distemper.
 But it pleased the Lord to visit him with the knowledge of his blessed truth,
 which brought him to a more regular and temperate life,
 and this preserved him more free from it.
 
-Lady: Oh!
+[.discourse-part]
+__Lady:__ Oh!
 I know what you aim at.
 You want to have me a Quaker.
 And I confess, if I could be such an one as you are, I would be a Quaker tomorrow.
@@ -465,8 +515,12 @@ But I understand Mr. Careless is below; and though you are men of different pers
 I account you both wise and godly men,
 and some moderate discourse of the things of God between you, I believe would do me good.
 
-John Roberts: If he ask me any questions, as the Lord shall enable me,
+[.discourse-part]
+__John Roberts:__ If he ask me any questions, as the Lord shall enable me,
 I shall endeavour to give him an answer.
+
+[.small-break]
+'''
 
 She then had the parson up; and after a compliment or two, she said,
 "`I made bold to send for you to take an ordinary dinner with me,
@@ -477,17 +531,21 @@ though I believe both good Christians,
 if you would soberly ask and answer each other a few questions, it would divert me;
 so that I should be less sensible of the pains I lie under.
 
-Priest: An`'t please your ladyship, I see nothing in that.
+[.discourse-part]
+__Priest:__ An`'t please your ladyship, I see nothing in that.
 
-Lady: Pray Mr. Carless, ask John some questions.
+[.discourse-part]
+__Lady:__ Pray Mr. Carless, ask John some questions.
 
-Priest: It will not edify your ladyship;
+[.discourse-part]
+__Priest:__ It will not edify your ladyship;
 for I have discoursed John and several others of his persuasion divers times,
 and I have read their books, and all to no purpose; for they sprang from the Papists,
 and hold the same doctrine the Papists do.
 Let John deny it if he can.
 
-John Roberts: I find thou art setting us out in very black characters,
+[.discourse-part]
+__John Roberts:__ I find thou art setting us out in very black characters,
 with design to affright me; but therein thou wilt be mistaken.
 I advise thee to say no worse of us than thou canst make out,
 and then make us as black as thou canst.
@@ -495,11 +553,13 @@ And if thou canst prove me a Papist in one thing,
 with the help of God I will prove thee like them in ten.
 And this woman who lies here in bed shall be judge.
 
-Priest: The Quakers hold that damnable doctrine and dangerous tenet,
+[.discourse-part]
+__Priest:__ The Quakers hold that damnable doctrine and dangerous tenet,
 of perfection in this life; and so do the Papists.
 If you go about to deny it, John, I can prove you hold it.
 
-John Roberts: I doubt thou art now going about to belie the Papists behind their backs,
+[.discourse-part]
+__John Roberts:__ I doubt thou art now going about to belie the Papists behind their backs,
 as thou hast heretofore done by us.
 For, by what I have learnt of their principles,
 they do not believe a state of freedom from sin and
@@ -507,14 +567,18 @@ acceptance with God possible on this side the grave;
 and therefore they have imagined to themselves a place of purgation after death.
 But whether they believe such a state attainable or no, I do.
 
-Priest: An`'t please your ladyship, John has confessed enough out of his own mouth;
+[.discourse-part]
+__Priest:__ An`'t please your ladyship, John has confessed enough out of his own mouth;
 for that is a damnable doctrine and dangerous tenet.
 
-John Roberts: I would ask thee one question; dost thou own a purgatory?
+[.discourse-part]
+__John Roberts:__ I would ask thee one question; dost thou own a purgatory?
 
-Priest: No.
+[.discourse-part]
+__Priest:__ No.
 
-John Roberts: Then the Papists, in this case, are wiser than thee.
+[.discourse-part]
+__John Roberts:__ Then the Papists, in this case, are wiser than thee.
 They own the saying of Christ, who told the unbelieving Jews, "`If ye die in your sins,
 whither I go ye cannot come.`"
 But by thy discourse, thou and thy followers must needs go headlong to destruction;
@@ -528,25 +592,38 @@ whom thou hast been preaching to for thy belly, whether ever, or never,
 she must expect to be freed from her sins, and made fit for the kingdom of heaven;
 or whether the blind must lead the blind till both fall into the ditch.
 
-Priest: No, John, you mistake me:
+[.discourse-part]
+__Priest:__ No, John, you mistake me:
 I believe that God Almighty is able of his great mercy to forgive persons their sins,
 and fit them for heaven a little before they depart this life.
 
-John Roberts: I believe the same.
+[.discourse-part]
+__John Roberts:__ I believe the same.
 But, if thou wilt limit the holy One of Israel,
 how long wilt thou give the Lord leave to fit a person for his glorious kingdom.
 
-Priest: It may be an hour or two.
+[.discourse-part]
+__Priest:__ It may be an hour or two.
 
-John Roberts: My faith is a day or two, as well as an hour or two.
+[.discourse-part]
+__John Roberts:__ My faith is a day or two, as well as an hour or two.
 
-Priest: I believe so too.
+[.discourse-part]
+__Priest:__ I believe so too.
 
-John Roberts: Or a week or two.
+[.discourse-part]
+__John Roberts:__ Or a week or two.
+
+[.small-break]
+'''
+
 And my father carried it to a month or two;
 and so gradually till he brought it to seven years,
 the priest confessing he believed the same.
-On which my father thus proceeded: "`How couldst thou accuse me of popery,
+On which my father thus proceeded:
+
+[.discourse-part]
+"`How couldst thou accuse me of popery,
 in holding this doctrine, which thou thyself hast confessed too`"? If I am like a Papist,
 thou art, by thy own confession, as like a Papist as I am.
 And if it be a damnable doctrine and dangerous tenet in the Quakers,
@@ -556,7 +633,11 @@ but hast not thou mistaken thyself in condemning
 thine own acknowledged opinion when uttered by me!
 But notwithstanding thou hast failed in making me out to be a Papist in this particular,
 canst thou do it in anything else?`"
+
+[.offset]
 Upon this the priest being mute, my father thus proceeded:
+
+[.discourse-part]
 "`Well! though thou hast failed in proving me like them,
 it need not hinder me from showing thee to be so in many things.
 For instance, you build houses and consecrate them, calling them churches,
@@ -569,6 +650,9 @@ and dost thou not style them thy ornaments?
 You consecrate the ground where you inter your dead, calling it holy ground; so do they.
 In short, thou art like a Papist in so many things,
 he need be a wise man to distinguish betwixt them and thee.`"
+
+[.small-break]
+'''
 
 At this the priest appeared uneasy; and said to the lady, "`Madam,
 I must beg your excuse; for there is to be a lecture this afternoon,
@@ -645,73 +729,99 @@ My father went at the time appointed, without his servant;
 and when his name was called over, he answered to it.
 The discourse that occurred was in substance as follows:
 
-Bishop: What is your name?
+[.discourse-part]
+__Bishop:__ What is your name?
 
-John Roberts: I have been called by my name, and answered to it.
+[.discourse-part]
+__John Roberts:__ I have been called by my name, and answered to it.
 
-Bishop: I desire to hear it again.
+[.discourse-part]
+__Bishop:__ I desire to hear it again.
 
-John Roberts: My name is John Roberts.
+[.discourse-part]
+__John Roberts:__ My name is John Roberts.
 
-Bishop: Well, you were born Roberts; but you were not born John.
+[.discourse-part]
+__Bishop:__ Well, you were born Roberts; but you were not born John.
 Pray who gave you that name?
 
-John Roberts: Thou hast asked me a very hard question,
+[.discourse-part]
+__John Roberts:__ Thou hast asked me a very hard question,
 my name being given me before I was capable of remembering who gave it me.
 But I believe it was my parents,
 they being the only persons who had a right to give me my name.
 That name they always called me by, and to that name I always answered;
 and I believe none need call it in question now.
 
-Bishop: No, no, but how many children have you?
+[.discourse-part]
+__Bishop:__ No, no, but how many children have you?
 
-John Roberts: It hath pleased God to give me six children;
+[.discourse-part]
+__John Roberts:__ It hath pleased God to give me six children;
 three of whom he pleased to take from me; the other three are still living.
 
-Bishop: And how many of them have been bishoped?
+[.discourse-part]
+__Bishop:__ And how many of them have been bishoped?
 
-John Roberts: None that I know of.
+[.discourse-part]
+__John Roberts:__ None that I know of.
 
-Bishop: What reason can you give for that?
+[.discourse-part]
+__Bishop:__ What reason can you give for that?
 
-John Roberts: A very good one, I think; most of my children were born in Oliver`'s days,
+[.discourse-part]
+__John Roberts:__ A very good one, I think; most of my children were born in Oliver`'s days,
 when bishops were out of fashion.
 (At this the court fell a laughing.)
 
-Bishop: But how many of them have been baptized?
+[.discourse-part]
+__Bishop:__ But how many of them have been baptized?
 
-John Roberts: What dost thou mean by that?
+[.discourse-part]
+__John Roberts:__ What dost thou mean by that?
 
-Bishop: What, do not you own baptism?
+[.discourse-part]
+__Bishop:__ What, do not you own baptism?
 
-John Roberts: Yes; but perhaps we may differ in that point.
+[.discourse-part]
+__John Roberts:__ Yes; but perhaps we may differ in that point.
 
-Bishop: What baptism do you own?
+[.discourse-part]
+__Bishop:__ What baptism do you own?
 That of the Spirit, I suppose.
 
-John.
-Roberts.
+[.discourse-part]
+__John Roberts:__
 Yes. What other baptism should I own?
-Bishop: Do you own but one baptism?
 
-John Roberts: If one be enough, what needs any more!
+[.discourse-part]
+__Bishop:__ Do you own but one baptism?
+
+[.discourse-part]
+__John Roberts:__ If one be enough, what needs any more!
 The apostle said, One Lord, one faith, one baptism.
 
-Bishop: What say you of the baptism of water!
+[.discourse-part]
+__Bishop:__ What say you of the baptism of water!
 
-John Roberts: I say there was a man sent from God, whose name was John,
+[.discourse-part]
+__John Roberts:__ I say there was a man sent from God, whose name was John,
 who had a real commission for it; and he was the only man that I read of,
 who was empowered for that work.
 
-Bishop: But what if I make it appear to you,
+[.discourse-part]
+__Bishop:__ But what if I make it appear to you,
 that some of Christ`'s disciples themselves baptized with water,
 after Christ`'s ascension?
 
-John Roberts: I suppose that is no very difficult task; but what is that to me?
+[.discourse-part]
+__John Roberts:__ I suppose that is no very difficult task; but what is that to me?
 
-Bishop: Is it nothing to you what Christ`'s disciples themselves did?
+[.discourse-part]
+__Bishop:__ Is it nothing to you what Christ`'s disciples themselves did?
 
-John Roberts: Not in everything; for Paul, that eminent apostle, who,
+[.discourse-part]
+__John Roberts:__ Not in everything; for Paul, that eminent apostle, who,
 I suppose thou wilt grant,
 had as extensive a commission as any of the rest of the apostles; nay, he says himself,
 he was not a whit behind the chiefest of them,
@@ -722,30 +832,40 @@ And if he was not sent, I would soberly ask, who required it at his hands?
 Perhaps he might have as little thanks for his labour as thou mayest have for thine;
 and I would willingly know who sent thee to baptize?
 
-Bishop: This is not our present business.
+[.discourse-part]
+__Bishop:__ This is not our present business.
 You are here returned for not coming to church.
 What say you to that!
 
-John Roberts: I desire to see mine accusers.
+[.discourse-part]
+__John Roberts:__ I desire to see mine accusers.
 
-Bishop: It is the minister and the church wardens.
+[.discourse-part]
+__Bishop:__ It is the minister and the church wardens.
 Do you deny it?
 
-John Roberts: Yes I do; for it is always my principle and practice to go to church.
+[.discourse-part]
+__John Roberts:__ Yes I do; for it is always my principle and practice to go to church.
 
-Bishop: And do you go to church?
+[.discourse-part]
+__Bishop:__ And do you go to church?
 
-John Roberts: Yes, and sometimes the church comes to me.
+[.discourse-part]
+__John Roberts:__ Yes, and sometimes the church comes to me.
 
-Bishop: The church comes to you: I do not understand you, friend.
+[.discourse-part]
+__Bishop:__ The church comes to you: I do not understand you, friend.
 
-John Roberts: It may be so:
+[.discourse-part]
+__John Roberts:__ It may be so:
 it is often for want of a good understanding that the innocent are made to suffer.
 
-Apparitor.
+[.discourse-part]
+__Apparitor:__
 My lord, he keeps meetings at his house, and he calls that a church.
 
-John Roberts: No; I no more believe my house to be a church,
+[.discourse-part]
+__John Roberts:__ No; I no more believe my house to be a church,
 than I believe what you call so to be one.
 I call the people of God the church of God,
 wheresoever they are met to worship him in spirit and in truth,
@@ -756,59 +876,87 @@ that is but the workmanship of men`'s hands,
 whereas the true church consists of living stones,
 and is built up by Christ a spiritual house to God.
 
-Bishop: We call it a church figuratively, meaning the place where the church meets.
+[.discourse-part]
+__Bishop:__ We call it a church figuratively, meaning the place where the church meets.
 
-John Roberts: I fear you call it a church hypocritically and deceitfully,
+[.discourse-part]
+__John Roberts:__ I fear you call it a church hypocritically and deceitfully,
 with design to awe the people into a veneration for the place, which is not due to it,
 as though your consecrations had made that house holier than others.
 
-Bishop: What do you call that which we call a church?
+[.discourse-part]
+__Bishop:__ What do you call that which we call a church?
 
-John Roberts: It may properly enough be called a mass house,
+[.discourse-part]
+__John Roberts:__ It may properly enough be called a mass house,
 it being formerly built for that purpose.
 
-Apparitor: Mr. Haywood,
+[.discourse-part]
+__Apparitor:__ Mr. Haywood,
 it is expected you should show more respect than
 you do in this place in keeping on your hat.
 
-John Roberts: Who expects it?
+[.discourse-part]
+__John Roberts:__ Who expects it?
 
-Apparitor: My lord the Bishop:
+[.discourse-part]
+__Apparitor:__ My lord the Bishop.
 
-John Roberts: I expect better things from him.
+[.discourse-part]
+__John Roberts:__ I expect better things from him.
 
-Bishop: No, no; keep on your hat: I do not expect it from you.
+[.discourse-part]
+__Bishop:__ No, no; keep on your hat: I do not expect it from you.
 A little after, the bishop said; "`Well friend,
 this is not a convenient time for you and I to dispute;
 but I may take you to my chamber and convince you of your errors.`"
 
-John Roberts: I should take it kindly of thee, or any man else,
+[.discourse-part]
+__John Roberts:__ I should take it kindly of thee, or any man else,
 to convince me of any errors that I hold; and would hold them no longer.
 
-Bishop: Call some others.--Then my father`'s man was called; who not appearing,
+[.discourse-part]
+__Bishop:__ Call some others.
+
+[.small-break]
+'''
+
+Then my father`'s man was called; who not appearing,
 the apparitor said, "`Mr. Haywood, is John Overall here?`"
 
-John Roberts: I believe not.
+[.discourse-part]
+__John Roberts:__ I believe not.
 
-Bishop: What is the reason he is not here?
+[.discourse-part]
+__Bishop:__ What is the reason he is not here?
 
-John Roberts: I think there are very good reasons for his absence.
+[.discourse-part]
+__John Roberts:__ I think there are very good reasons for his absence.
 
-Bishop: What are they?
+[.discourse-part]
+__Bishop:__ What are they?
 may not I know?
 
-John Roberts: In the first place, he is an old man,
+[.discourse-part]
+__John Roberts:__ In the first place, he is an old man,
 and not of ability to undertake such a journey, except it was upon a very good account.
 In the second place, he is my servant;
 and I cannot spare him out of my business in my absence.
 
-Bishop: Why does he not go to church then?
+[.discourse-part]
+__Bishop:__ Why does he not go to church then?
 
-John Roberts: He does go to church with me.
+[.discourse-part]
+__John Roberts:__ He does go to church with me.
 
+[.offset]
 At this the court fell a laughing.
 
-Bishop: Call somebody else.
+[.discourse-part]
+__Bishop:__ Call somebody else.
+
+[.small-break]
+'''
 
 Then a Baptist preacher was called, who seeing the bishop`'s civility to my father,
 in suffering him to keep on his hat, thought to take the same liberty.
@@ -829,18 +977,27 @@ that it did him good to hear him.
 The Baptist then taking off his hat, said, "`An`'t please you, my lord,
 I have not been well in my head.`"
 
-Bishop: Why, you have got a cap on; nay you have two caps on.
+[.discourse-part]
+__Bishop:__ Why, you have got a cap on; nay you have two caps on.
 (He had a black one over a white one.) What is your reason for
 denying your children that holy ordinance of baptism?
 
-Baptist: An`'t please you, my lord, I am not well satisfied about it.
+[.discourse-part]
+__Baptist:__ An`'t please you, my lord, I am not well satisfied about it.
 
-Bishop: What is the ground of your dissatisfaction!
+[.discourse-part]
+__Bishop:__ What is the ground of your dissatisfaction!
 Did you ever see a book I published, entitled, The order of Baptism?
 
-Baptist: No, my lord.
+[.discourse-part]
+__Baptist:__ No, my lord.
 
-Bishop: I thought so.
+[.discourse-part]
+__Bishop:__ I thought so.
+
+[.small-break]
+'''
+
 Then telling how and where he might get it, he gave him a space of time to peruse it;
 and told him if that would not satisfy him, to come to him,
 and he would give him full satisfaction.
@@ -872,22 +1029,29 @@ He therefore contrived to come home after daylight; when he came into his own gr
 the moon shining bright, he espied the shadow of a man, and asked, "`Who is there?`"
 "`It is I,`" says the man.
 
-John Roberts: Who?
+[.discourse-part]
+__John Roberts:__ Who?
 Sam Stubbs?
 
-Sam Stubbs.
+[.discourse-part]
+__Sam Stubbs:__
 Yes, master.
 
-John Roberts: Hast thou any thing against me?
+[.discourse-part]
+__John Roberts:__ Hast thou any thing against me?
 (He was a bailiff.)
 
-Sam Stubbs.
+[.discourse-part]
+__Sam Stubbs:__
 No, master: I might; but I would not meddle: I have wronged you enough already;
 God forgive me.
 But those who now lie in wait for you are the Paytons, my lord bishop`'s bailiffs.
 I would not have you fall into their hands, for they are merciless rogues.
 I would have you, master, take my counsel; ever while you live please a knave,
 for an honest man will not hurt you.
+
+[.small-break]
+'''
 
 My father came home, and desired us not to let the bailiffs in upon him that night,
 that he might have an opportunity of taking counsel on his pillow.
@@ -930,40 +1094,50 @@ assuming a majestic air.
 My father stood silent a while; and seeing the bishop did not begin with him,
 he approached nearer, and thus accosted him: "`Old man my business is with thee.`"
 
-Bishop: What is your business with me?
+[.discourse-part]
+__Bishop:__ What is your business with me?
 
-John Roberts: I have heard thou hast sent out thy bailiffs to take me;
+[.discourse-part]
+__John Roberts:__ I have heard thou hast sent out thy bailiffs to take me;
 but I rather chose to come myself, to know what wrong I have done thee.
 If it appear I have done thee any, I am ready to make thee satisfaction; but if,
 upon inquiry, I appear to be innocent, I desire thee, for thy own soul`'s sake,
 thou dost not injure me.
 
-Bishop: You are misinformed, friend; I am not your adversary.
+[.discourse-part]
+__Bishop:__ You are misinformed, friend; I am not your adversary.
 
-John Roberts: Then I desire thee to tell me who is my adversary,
+[.discourse-part]
+__John Roberts:__ Then I desire thee to tell me who is my adversary,
 that I may go and agree with him while I am in the way.
 
-Bishop: The king is your adversary.
+[.discourse-part]
+__Bishop:__ The king is your adversary.
 The king`'s laws you have broken, and to the king you shall answer; that is more.
 
-John Roberts: Our subjection to laws is either active or passive.
+[.discourse-part]
+__John Roberts:__ Our subjection to laws is either active or passive.
 So that if a man cannot, for conscience-sake, do the thing the law requires,
 but passively suffers what the law inflicts, the law, I conceive,
 is as fully answered as if he had actually obeyed.
 
-Bishop: You are wrong in that too; for suppose a man steal an ox, and then be taken,
+[.discourse-part]
+__Bishop:__ You are wrong in that too; for suppose a man steal an ox, and then be taken,
 and hanged for the fact; what restitution is that to the owner`"!
 
-John Roberts: None at all.
+[.discourse-part]
+__John Roberts:__ None at all.
 But though it is no restitution to the owner, yet the law is satisfied.
 Though the owner be a loser, the criminal has suffered the punishment the law inflicts,
 as an equivalent for the crime committed.
 But thou mayest see the corruptness of such laws,
 which put the life of a man upon a level with the life of a beast.
 
-Bishop: What! do such men as you find fault with the laws!
+[.discourse-part]
+__Bishop:__ What! do such men as you find fault with the laws!
 
-John Roberts: Yes; and I will tell thee plainly, it is high time wiser men were chosen,
+[.discourse-part]
+__John Roberts:__ Yes; and I will tell thee plainly, it is high time wiser men were chosen,
 to make better laws.
 For if this thief was taken and sold for a proper term, according to the law of Moses,
 and the owner had four oxen for his ox, and four sheep for his sheep,
@@ -971,43 +1145,55 @@ he would be satisfied, and the man`'s life preserved, that he might repent,
 and amend his ways.
 But I hope thou dost not accuse me of having stolen any man`'s ox or ass.
 
-Bishop: No, no; God forbid!
+[.discourse-part]
+__Bishop:__ No, no; God forbid!
 
-John Roberts: Then if thou pleasest to give me leave,
+[.discourse-part]
+__John Roberts:__ Then if thou pleasest to give me leave,
 I will state a case more parallel to the matter in hand.
 
-Bishop: You may.
+[.discourse-part]
+__Bishop:__ You may.
 
-John Roberts: There lived in days past, Nebuchadnezzar, king of Babylon,
+[.discourse-part]
+__John Roberts:__ There lived in days past, Nebuchadnezzar, king of Babylon,
 who set up an image, and made a decree, that all who would not bow to it,
 should be cast the same hour into a burning fiery furnace.
 There were then three young men, who served the same God that I do now,
 and these durst not bow down to it; but passively submitted their bodies to the flames.
 Was not that a sufficient satisfaction to the unjust decree of the king?
 
-Bishop: Yes: God forbid else.
+[.discourse-part]
+__Bishop:__ Yes: God forbid else.
 For that was to worship the workmanship of men`'s hands; which is idolatry.
 
-John Roberts: Is that thy judgment,
+[.discourse-part]
+__John Roberts:__ Is that thy judgment,
 that to worship the workmanship of men`'s hands is idolatry?
 
-Bishop: Yes, certainly.
+[.discourse-part]
+__Bishop:__ Yes, certainly.
 
-John Roberts: Then give me leave to ask thee,
+[.discourse-part]
+__John Roberts:__ Then give me leave to ask thee,
 by whose hands the common-prayer-book was made,
 I am sure it was made by somebody`'s hands, for it could not make itself?
 
-Bishop: Do you compare our common-prayerbook to Nebuchadnezzar`'s image?
+[.discourse-part]
+__Bishop:__ Do you compare our common-prayerbook to Nebuchadnezzar`'s image?
 
-John Roberts: Yes, I do: that was his image, and this is thine.
+[.discourse-part]
+__John Roberts:__ Yes, I do: that was his image, and this is thine.
 And be it known unto thee, I speak in the dread of the God of heaven,
 I no more dare bow to thy common-prayer-book than
 the three children could to Nebuchadnezzar`'s image.
 
-Bishop: Yours is a strange upstart religion, of a very few years standing,
+[.discourse-part]
+__Bishop:__ Yours is a strange upstart religion, of a very few years standing,
 and you are grown so confident in it, that there is no beating you out of it.
 
-John Roberts: Out of my religion?
+[.discourse-part]
+__John Roberts:__ Out of my religion?
 God forbid!
 I was a long time seeking acquaintance with the living
 God amongst the dead forms of worship,
@@ -1016,24 +1202,30 @@ I hope neither thou nor any man living shall be able to persuade me out of it.
 But though thou art an ancient man and a bishop,
 I find thou art very ignorant of the rise and antiquity of our religion?
 
-Bishop: (Smiling.) Do you Quakers pretend antiquity for your religion?
+[.discourse-part]
+__Bishop:__ (Smiling.) Do you Quakers pretend antiquity for your religion?
 
-John Roberts: Yes; and I do not question, but, with the help of God,
+[.discourse-part]
+__John Roberts:__ Yes; and I do not question, but, with the help of God,
 I can make it appear that our religion was many hundred
 years before thine was thought of.
 
-Bishop: You see I have given you liberty of discourse,
+[.discourse-part]
+__Bishop:__ You see I have given you liberty of discourse,
 and have not sought to ensnare you in your words;
 but if you can make the Quakers`' religion appear
 to be many hundred years older than mine,
 you will speed the better.
 
-John Roberts: If I do not, I seek no favour at thy hands, and in order to do it,
+[.discourse-part]
+__John Roberts:__ If I do not, I seek no favour at thy hands, and in order to do it,
 I hope thou will give me liberty to ask a few sober questions.
 
-Bishop: You may.
+[.discourse-part]
+__Bishop:__ You may.
 
-John Roberts: Then first I would ask thee, where was thy religion in Oliver`'s days?
+[.discourse-part]
+__John Roberts:__ Then first I would ask thee, where was thy religion in Oliver`'s days?
 The common-prayer-book was then become, (even among the clergy,) like an old almanac,
 very few regarding it in our country.
 There were two or three priests indeed, who stood honestly to their principles,
@@ -1041,18 +1233,22 @@ and suffered pretty much; but the far greater number turned with the tide;
 and we have reason to believe, that if Oliver would have put mass into their mouths,
 they would have conformed even to that for their bellies.
 
-Bishop: What would you have us do?
+[.discourse-part]
+__Bishop:__ What would you have us do?
 would you have Oliver cut our throats?
 
-John Roberts: No, by no means.
+[.discourse-part]
+__John Roberts:__ No, by no means.
 But what religion was that you were afraid to venture your throats for?
 Be it known unto thee, I ventured my throat for my religion in Oliver`'s days as I do now.
 
-Bishop: And I must tell you,
+[.discourse-part]
+__Bishop:__ And I must tell you,
 though in Oliver`'s days I did not dare to own it as I do now,
 yet I never owned any other religion.
 
-John Roberts: Then I suppose thou madest a conscience of it;
+[.discourse-part]
+__John Roberts:__ Then I suppose thou madest a conscience of it;
 and I should abundantly rather choose to fall into such a man`'s hands,
 than into the hands of one who makes no conscience towards God,
 but will conform to any thing for his belly.
@@ -1061,26 +1257,32 @@ thy throat for in Oliver`'s days,
 I desire thee to consider, it is not worth cutting other men`'s throats now,
 for not conforming to it.
 
-Bishop: You say right; I hope we shall have a care how we cut men`'s throats.
+[.discourse-part]
+__Bishop:__ You say right; I hope we shall have a care how we cut men`'s throats.
 (Several others were now come into the room.) But you know
 the common-prayer-book was before Oliver`'s days.
 
-John Roberts: Yes; I have a great deal of reason to know that;
+[.discourse-part]
+__John Roberts:__ Yes; I have a great deal of reason to know that;
 for I was bred up under a common-prayer priest, and a poor old drunken man he was:
 sometimes he was so drunk he could not say his prayers,
 and at best he could but say them;
 though I think he was by far a better man than he that is priest there now.
 
-Bishop: Who is your minister now?
+[.discourse-part]
+__Bishop:__ Who is your minister now?
 
-John Roberts: My minister is Christ Jesus, the minister of the everlasting covenant;
+[.discourse-part]
+__John Roberts:__ My minister is Christ Jesus, the minister of the everlasting covenant;
 but the present priest of the parish is George Bull.
 
-Bishop: Do you say that drunken old man was better than Mr. Bull?
+[.discourse-part]
+__Bishop:__ Do you say that drunken old man was better than Mr. Bull?
 I tell you, I account Mr. Bull as sound, able,
 and orthodox a divine as any we have among us.
 
-John Roberts: I am sorry for that; for if he is one of the best of you,
+[.discourse-part]
+__John Roberts:__ I am sorry for that; for if he is one of the best of you,
 I believe the Lord will not suffer you long; for he is a proud, ambitious, ungodly man;
 he has often sued me at law, and brought his servants to swear against me wrongfully.
 His servants themselves have confessed to my servants, that I might have their ears;
@@ -1092,17 +1294,21 @@ and sold them for their master.
 They have also several times took my cattle out of my grounds,
 drove them to fairs and markets, and sold them without giving me any account.
 
-Bishop: I do assure you I will inform Mr. Bull of what you say.
+[.discourse-part]
+__Bishop:__ I do assure you I will inform Mr. Bull of what you say.
 
-John Roberts: Very well.
+[.discourse-part]
+__John Roberts:__ Very well.
 And if thou pleasest to send for me to face him,
 I shall make much more appear to his face than I will say behind his back.
 
-Bishop:
+[.discourse-part]
+__Bishop:__
 But I remember you said you could make it appear that your religion was long before mine;
 and that is what I want to hear you make out.
 
-John Roberts: Our religion, as thou mayest read in the Scripture,
+[.discourse-part]
+__John Roberts:__ Our religion, as thou mayest read in the Scripture,
 (John iv.) was set up by Christ himself, between sixteen and seventeen hundred years ago;
 and he had full power to establish the true religion in his church,
 when he told the woman of Samaria, that neither at that mountain, nor yet at Jerusalem,
@@ -1121,19 +1327,25 @@ a religion established by Christ himself, before the mass-book, service-book,
 or directory, or any of those inventions and traditions of men,
 which in the night of apostasy were set up.
 
-Bishop: Are all the Quakers of the same opinion?
+[.discourse-part]
+__Bishop:__ Are all the Quakers of the same opinion?
 
-John Roberts: Yes, they are.
+[.discourse-part]
+__John Roberts:__ Yes, they are.
 If any hold doctrines contrary to that taught by our Saviour to the woman of Samaria,
 they are not of us.
 
-Bishop: Do you own the trinity?
+[.discourse-part]
+__Bishop:__ Do you own the trinity?
 
-John Roberts: I do not remember such a word in the holy Scriptures.
+[.discourse-part]
+__John Roberts:__ I do not remember such a word in the holy Scriptures.
 
-Bishop: Do you own three persons?
+[.discourse-part]
+__Bishop:__ Do you own three persons?
 
-John Roberts: I believe according to the Scripture,
+[.discourse-part]
+__John Roberts:__ I believe according to the Scripture,
 that there are three that bear record in heaven, and that those three are One:
 thou mayest make as many persons of them as thou canst.
 But I would soberly ask thee,
@@ -1141,17 +1353,21 @@ since the Scriptures say the heaven of heavens cannot contain Him,
 and that He is incomprehensible,
 by what person or likeness canst thou comprehend the Almighty?
 
-Bishop: Yours is the strangest of all persuasions;
+[.discourse-part]
+__Bishop:__ Yours is the strangest of all persuasions;
 for though there are many sects (which he named)
 and though they and we differ in some circumstances,
 yet in the fundamentals we agree as one.
 But I observe, you of all others, strike at the very root and basis of our religion.
 
-John Roberts: Art thou sensible of that?
+[.discourse-part]
+__John Roberts:__ Art thou sensible of that?
 
-Bishop: Yes, I am.
+[.discourse-part]
+__Bishop:__ Yes, I am.
 
-John Roberts: I am glad of that; for the root is the rottenness,
+[.discourse-part]
+__John Roberts:__ I am glad of that; for the root is the rottenness,
 and truth strikes at the very foundation thereof.
 That little stone which Daniel saw cut out of the mountain without hands,
 will overturn all in God`'s due time, when you have done all you can to support it.
@@ -1161,21 +1377,27 @@ the beast had many heads and many horns, which push against each other.
 And yet I am fully persuaded,
 there are many in this day true spiritual worshippers in all persuasions.
 
-Bishop:
+[.discourse-part]
+__Bishop:__
 But you will not give us the same liberty you give a common
 mechanic to call our tools by their own names.
 
-John Roberts: I desire thee to explain thyself.
+[.discourse-part]
+__John Roberts:__ I desire thee to explain thyself.
 
-Bishop: Why, you will give a carpenter leave to call his gimblet a gimblet,
+[.discourse-part]
+__Bishop:__ Why, you will give a carpenter leave to call his gimblet a gimblet,
 and his gouge a gouge; but you call our church a mass-house.
 
-John Roberts: I wish you were half so honest men as carpenters.
+[.discourse-part]
+__John Roberts:__ I wish you were half so honest men as carpenters.
 
-Bishop: Why?
+[.discourse-part]
+__Bishop:__ Why?
 Do you upbraid us?
 
-John Roberts: I would not upbraid you;
+[.discourse-part]
+__John Roberts:__ I would not upbraid you;
 but I will endeavour to show thee wherein you fall short of carpenters.
 Suppose I had a son intended to learn the trade of a carpenter;
 I indent with an honest man of that calling, in consideration of so much money,
@@ -1193,9 +1415,11 @@ Plainly it is a very cheat.
 What! always learning, and never able to come to the knowledge of God!
 Miserable sinners you found us, and miserable sinners you leave us.
 
-Bishop: Are you against confession?
+[.discourse-part]
+__Bishop:__ Are you against confession?
 
-John Roberts: No:
+[.discourse-part]
+__John Roberts:__ No:
 for I believe those who confess and forsake their
 sins shall find mercy at the hand of God;
 but those who persist in them shall be punished.
@@ -1205,9 +1429,11 @@ for if you keep on in your old lesson you must always be doing what you ought no
 and leaving undone what ye ought to do; and you can never do worse.
 I believe in my heart, you mock God.
 
-Bishop: How dare you say?
+[.discourse-part]
+__Bishop:__ How dare you say?
 
-John Roberts: I will state the case, and thou shalt judge.
+[.discourse-part]
+__John Roberts:__ I will state the case, and thou shalt judge.
 Suppose thou hadst a son,
 and thou shouldest daily let him know what thou wouldest have him to do,
 and he should day by day, week by week, and year after year, provoke thee to thy face,
@@ -1217,7 +1443,10 @@ and continue to provoke thee to thy face in this manner, once, or oftener every 
 wouldest thou not think him a rebellious child,
 and that his application to thee was mere mockery?
 and would it not occasion thee to disinherit him?
+
+[.offset]
 After some more discourse, my father told him time was far spent; and said,
+
 "`If nothing will serve thee but my body in prison, here it is in thy power,
 and if thou commandest me to deliver myself up either to the sheriff,
 or to the jailer of Gloucester castle, as thy prisoner, I will go,
@@ -1225,14 +1454,19 @@ and seek no other judge, advocate, or attorney, to plead my cause,
 but the great Judge of heaven and earth,
 who knows I have nothing but love and good-will in my heart to thee and all mankind.`"
 
-Bishop: No; you shall go home about your business.
+[.discourse-part]
+__Bishop:__ No; you shall go home about your business.
 
-John Roberts:
+[.discourse-part]
+__John Roberts:__
 Then I desire thee for the future not to trouble
 thyself to send any more bailiffs after me;
 for if thou pleasest at any time to let me know by a line or two,
 thou wouldest speak with me, though it be to send me to that prison,
 if I am well and able, I will come.
+
+[.small-break]
+'''
 
 The bishop then called for something to drink; but my father acknowledged his kindness,
 and excused himself from drinking.
@@ -1241,21 +1475,29 @@ who took offence at my father`'s freedom with the bishop, said, "`Haywood,
 you are afraid of nothing; I never met with such a man in my life.
 I am afraid of my life, lest such fanatics as you should cut my throat as I sleep,`"
 
-John Roberts: I do not wonder that thou art afraid.
+[.discourse-part]
+__John Roberts:__ I do not wonder that thou art afraid.
 
-Cuthbert: Why should I be afraid any more than you?
+[.discourse-part]
+__Cuthbert:__ Why should I be afraid any more than you?
 
-John Roberts:
+[.discourse-part]
+__John Roberts:__
 Because I am under the protection of Him who numbereth the very hairs of my head,
 and without whose providence a sparrow shall not fall to the ground;
 but thou hast Cain`'s mark of envy on thy forehead,
 and like him art afraid whoever meets thee will kill thee.
 
-Cuthbert:
+[.discourse-part]
+__Cuthbert:__
 (In a great rage,) If all the Quakers in England are not hanged in a month`'s time,
 I will be hanged for them!
 
-John Roberts: (Smiling,) Prithee, friend, remember and be as good as thy word.
+[.discourse-part]
+__John Roberts:__ (Smiling,) Prithee, friend, remember and be as good as thy word.
+
+[.small-break]
+'''
 
 My father and his friend, Amariah Drewett, then took their leave,
 and returned home with the answer of peace in their bosoms.
@@ -1272,21 +1514,32 @@ he put out his hand, which my father respectfully took, saying,
 That is very kind, said my father; wilt thou please to alight and come in,
 with those who are along with thee?
 
-Bishop: I thank you John; we are going to Tedbury, and time will not admit of it now;
+[.discourse-part]
+__Bishop:__ I thank you John; we are going to Tedbury, and time will not admit of it now;
 but I will drink with you, if you please.
+
+[.small-break]
+'''
 
 My father went in and ordered some drink to be brought,
 and then returned to the coach-side.
 
-George Evans: John, is your house free to entertain such men as we are?
+[.discourse-part]
+__George Evans:__John, is your house free to entertain such men as we are?
 
-John Roberts: Yes, George; I entertain honest men, and sometimes others.
+[.discourse-part]
+__John Roberts:__ Yes, George; I entertain honest men, and sometimes others.
 
-George Evans: (To the bishop), My lord, John`'s friends are the honest men,
+[.discourse-part]
+__George Evans:__ (To the bishop), My lord, John`'s friends are the honest men,
 and we are the others.
 
-John Roberts: That is not fair, George, for thee to put thy construction on my words;
+[.discourse-part]
+__John Roberts:__ That is not fair, George, for thee to put thy construction on my words;
 thou shouldst have given me leave to do that.
+
+[.small-break]
+'''
 
 Squire Masters came out of his coach, and stood by the bishop`'s coach-side;
 and the chancellor, in a diverting humour, said to my father,
@@ -1297,11 +1550,13 @@ and we think you keep it very decent.`"
 it lay at the lower end of his orchard.) My father answered, yes;
 though we are against pride, we think it commendable to be decent.
 
-Chancellor: But there is one thing among you, which I did not expect to see;
+[.discourse-part]
+__Chancellor:__ But there is one thing among you, which I did not expect to see;
 I think it looks a little superstitious;
 I mean those grave-stones which are placed at the head and feet of your graves.
 
-John Roberts: That I confess is what I cannot much plead for;
+[.discourse-part]
+__John Roberts:__ That I confess is what I cannot much plead for;
 but it was permitted to gratify some who had their relations there interred, We,
 notwithstanding, propose to have them taken up ere long,
 and converted to some belter use.
@@ -1311,10 +1566,15 @@ you have led us wrong; and therefore we are now resolved, with the help of God,
 not to follow you one step further.
 At this the bishop smiled, and said, John I think your beer is long a coming.
 
-John Roberts: I suppose my wife is willing thou shouldst have the best,
+[.discourse-part]
+__John Roberts:__ I suppose my wife is willing thou shouldst have the best,
 and therefore stays to broach a fresh vessel.
 
-Bishop: Nay if it be for the best, we will stay.
+[.discourse-part]
+__Bishop:__ Nay if it be for the best, we will stay.
+
+[.small-break]
+'''
 
 Presently my mother brought the drink, and when the bishop had drank, he said,
 I commend you John, you keep a cup of good beer in your house.
@@ -1322,26 +1582,37 @@ I have not drank any that pleased me better since I came from home.
 The chancellor drank next; and the cup coming round again to my father`'s hand,
 `'squire Masters said to him, now, old school-fellow, I hope you will drink to me!
 
-John Roberts: Thou knowest it is not my practice to drink to any man; if it was,
+[.discourse-part]
+__John Roberts:__ Thou knowest it is not my practice to drink to any man; if it was,
 I would as soon drink to thee as another, as being my old acquaintance and school-fellow;
 but if thou art pleased to drink, thou art very welcome.
+
+[.small-break]
+'''
 
 The squire then taking the cup into his hand, said, now John,
 before my lord and all these gentlemen,
 tell me what ceremony or compliment do you Quakers use when you drink to one another.
 
-John Roberts: None at all.
+[.discourse-part]
+__John Roberts:__ None at all.
 For me to drink to another, and drink the liquor, is at best but a compliment,
 and that borders much on a lie.
 
-Squire Masters: What do you do then?
+[.discourse-part]
+__Squire Masters:__ What do you do then?
 
-John Roberts: Why, if I have a mind to drink, I take the cup and drink;
+[.discourse-part]
+__John Roberts:__ Why, if I have a mind to drink, I take the cup and drink;
 and if my friend pleases, he does the same; if not, he may let it alone.
 
-Squire Masters: Honest John, give me thy hand.
+[.discourse-part]
+__Squire Masters:__ Honest John, give me thy hand.
 Here is to thee with all my heart; and according to thy own compliment,
 if thou wilt drink, thou mayest, if not, thou mayest let it alone.
+
+[.small-break]
+'''
 
 My father then offering the cup to the Priest Bull, he refused it,
 saying it is full of hops and heresy.
@@ -1352,7 +1623,8 @@ I desire thee to take notice, as good as thou will,
 and those who are as well able to judge of heresy.
 Here thy lord bishop hath drank of it, and commends it; he finds no heresy in the cup.
 
-Bishop: Leaning over the coach-door, and whispering to my father, said John,
+[.discourse-part]
+__Bishop:__ Leaning over the coach-door, and whispering to my father, said John,
 I advise you to take care you do not offend against the higher powers.
 
 I have heard great complaints against you,
@@ -1360,7 +1632,8 @@ that you are the ringleader of the Quakers in this country;
 and that if you are not suppressed, all will signify nothing.
 Therefore, pray John, take care for the future, and do not offend any more.
 
-John Roberts: I like thy counsel very well, and intend to take it.
+[.discourse-part]
+__John Roberts:__ I like thy counsel very well, and intend to take it.
 But thou knowest God is the higher power; and you mortal men,
 however advanced in this world, are but the lower power;
 and it is only because I endeavour to be obedient to the will of the higher powers,
@@ -1369,18 +1642,25 @@ But I hope, with the assistance of God, to take thy counsel,
 and be subject to the higher powers,
 let the lower powers do with me as it may please God to suffer them.
 
-Bishop: I want some more discourse with you.
-
+[.discourse-part]
+__Bishop:__ I want some more discourse with you.
 Will you go with me to Mr. Bull`'s.
 
-John Roberts: Thou knowest he hath no goodwill for me.
+[.discourse-part]
+__John Roberts:__ Thou knowest he hath no goodwill for me.
 I had rather attend on thee elsewhere.
 
-Bishop: Will you come to morrow to Tedbury?
+[.discourse-part]
+__Bishop:__ Will you come to morrow to Tedbury?
 
-John Roberts: Yes, if thou desires it.
+[.discourse-part]
+__John Roberts:__ Yes, if thou desires it.
 
-Bishop: Well I do.
+[.discourse-part]
+__Bishop:__ Well I do.
+
+[.small-break]
+'''
 
 The bishop then took his leave, and went not to George Bull`'s,
 at which he was very much offended.
@@ -1403,24 +1683,27 @@ and retired with his friend till dinner was over.
 The bishop spoke to the woman of the house for another room, which, it being market day,
 was soon filled with priests and clothiers, &c.
 
-Bishop: (Putting on a stern countenance) said, come, John,
+[.discourse-part]
+__Bishop:__ (Putting on a stern countenance) said, come, John,
 I must turn over a new leaf with you.
-
 If you will not promise me to go to church,
 and to keep no more of these seditious conventicles at your house,
 I must make your mittimus, and send you to prison.
 
-John Roberts: Wouldst thou have me shut my doors against my friends?
+[.discourse-part]
+__John Roberts:__ Wouldst thou have me shut my doors against my friends?
 It was but yesterday that thou thyself, and many others here present, were at my house;
 and I was so far from shutting my doors against you, that I invited you in,
 and you should have been welcome to the best entertainment I had.
 
-Bishop: It is those meetings I speak of which you keep at your house,
+[.discourse-part]
+__Bishop:__ It is those meetings I speak of which you keep at your house,
 to the terror of the country.
 
-John Roberts: This I will promise thee, before all this company,
+[.discourse-part]
+__John Roberts:__ This I will promise thee, before all this company,
 that if any plotters or ill minded persons come to my house
-to i^lot or conspire against the king or government,
+to plot or conspire against the king or government,
 if I know of it, I will be the first informer against them myself,
 though I have not a penny for my labour.
 But if honest and sober people come to my house,
@@ -1428,9 +1711,11 @@ to wait upon and worship the God of heaven, in spirit and in truth,
 such shall be welcome to me as long as I have a house for them to meet in;
 and if I should have none, the Lord will provide one for them.
 
-Bishop: Will you promise to go to your own parish church to hear divine service?
+[.discourse-part]
+__Bishop:__ Will you promise to go to your own parish church to hear divine service?
 
-John Roberts: I can promise no such thing.
+[.discourse-part]
+__John Roberts:__ I can promise no such thing.
 The last time I was there, I was moved and required of the Lord, whom I serve,
 to bear testimony against a hireling priest,
 who was preaching for hire and divining for money; and he was angry with inc,
@@ -1438,9 +1723,11 @@ and caused the people to turn me out.
 And I do not intend to trouble him again till he learn more civility,
 except the Lord requires it of me.
 
-Bishop: Send for the constable: I must take another course.
+[.discourse-part]
+__Bishop:__ Send for the constable: I must take another course.
 
-John Roberts: If thou shouldst come to my house under a pretence of friendship,
+[.discourse-part]
+__John Roberts:__ If thou shouldst come to my house under a pretence of friendship,
 and in a Judas like manner, betray me hither to send me to prison,
 as I have hitherto commended thee for thy moderation,
 I should then have occasion to put thy name in print,
@@ -1450,17 +1737,23 @@ but bid them take up some honest vocation, and rob their honest neighbours no lo
 They are like a company of caterpillars who destroy the fruit of the earth,
 and live on the fruit of other men`'s labour.
 
-Then priest Rich, of North-Surry, said, who are those you call caterpillars.
+[.small-break]
+'''
 
-John Roberts: We herdsman call them caterpillars,
+Then priest Rich, of North-Surry, said, "`who are those you call caterpillars.`"
+
+[.discourse-part]
+__John Roberts:__ We herdsman call them caterpillars,
 who live on the fruit of other men`'s fields, and on the sweat of other men`'s brows.
 And if thou dost so, thou mayest be one of them.
 
-Rich: May it please your lordship,
+[.discourse-part]
+__Rich:__ May it please your lordship,
 if you suffer such a man as this to thou your lordship, and call you old man,
 what will become of us?
 
-John Roberts: We honour old age, if it be found in the way of well-doing;
+[.discourse-part]
+__John Roberts:__ We honour old age, if it be found in the way of well-doing;
 but one would not think you should be such dunces as to forget grammar rules.
 You bred up at Oxford and Cambridge!
 For what?
@@ -1473,26 +1766,37 @@ Will you not accept the same language from your fellow-mortals,
 which you give to the Almighty?
 What spirit was that in proud Haman, that would have poor Mordecai to bow to him?
 
-Bishop: This will not do.
+[.discourse-part]
+__Bishop:__ This will not do.
 Make their mittimusses: What is your name?
 
-Anthony Sharp: My name is Anthony Sharp.
+[.discourse-part]
+__Anthony Sharp:__ My name is Anthony Sharp.
 
-Bishop: Where do you live?
+[.discourse-part]
+__Bishop:__ Where do you live?
 
-Anthony Sharp: At Dublin, in the kingdom of Ireland.
+[.discourse-part]
+__Anthony Sharp:__ At Dublin, in the kingdom of Ireland.
 
-Bishop: What is your business here?
+[.discourse-part]
+__Bishop:__ What is your business here?
 
-Anthony Sharp: My mother lives in this town; and as she is such, and an ancient woman,
+[.discourse-part]
+__Anthony Sharp:__ My mother lives in this town; and as she is such, and an ancient woman,
 I thought it my duty to come and see her.
 
-John Roberts: He only came hither in good will to bear me company.
+[.discourse-part]
+__John Roberts:__ He only came hither in good will to bear me company.
 If thou pleasest, lay the more on me, and let him go free.
 
-Bishop: No; he may be as dangerous a person as yourself; and as you came for company,
+[.discourse-part]
+__Bishop:__ No; he may be as dangerous a person as yourself; and as you came for company,
 you shall go for company.
 Send for the constable to take them into custody.
+
+[.small-break]
+'''
 
 The woman of the house understanding the constable was to be sent for,
 dispatched a messenger to him to bid him get out of the way.
@@ -1502,28 +1806,39 @@ when honest John Haywood is going to be sent to prison?
 Here come along with me.`"
 The constable being willing, she concealed him in another room,
 and the bishop`'s messenger bringing him word that the constable was not to be found,
-he said to my father: Bishop: Here are many gentlemen who have a great way home,
+he said to my father:
+
+[.discourse-part]
+__Bishop:__ Here are many gentlemen who have a great way home,
 and I can send you to prison in The afternoon;
 so you may take your liberty until six of the clock.
+
+[.small-break]
+'''
 
 My father perceived his intent was to get rid of his company.
 So he withdrew with his friend Anthony Sharp; and at six o`'clock returned without him,
 and found only two persons with the bishop, i. e., Edward Barnet, a surgeon of Cockerton,
 and Parson Hall.
 
-Bishop: So, John, you are come.
+[.discourse-part]
+__Bishop:__ So, John, you are come.
 It is well; I want some more discourse with you.
 
-Parson Hall: And if it please you, my lord, let me discourse with him.
+[.discourse-part]
+__Parson Hall:__ And if it please you, my lord, let me discourse with him.
 
-Bishop: Ay, do, Mr. Hall, John will give you an answer.
+[.discourse-part]
+__Bishop:__ Ay, do, Mr. Hall, John will give you an answer.
 
-Parson Hall.
+[.discourse-part]
+__Parson Hall:__
 It is a great pity such a man as you should have the light,
 sight and knowledge of the Scriptures;
 for the knowledge of the Scriptures hath made you mad.
 
-John Roberts:
+[.discourse-part]
+__John Roberts:__
 Why should I not have the privilege of buying the Scriptures
 for my money as well as thee or any other man?
 But you priests, like the Papists, would have us laymen kept in ignorance,
@@ -1534,14 +1849,21 @@ the knowledge of the sack pot hath almost made thee mad;
 and if we two mad men should dispute about religion, we should make mad work of it.
 But as thou art an unworthy man, I will not dispute with thee.
 
-Parson Hall: And if it please you, my lord, he says I am drunk.
+[.discourse-part]
+__Parson Hall:__ And if it please you, my lord, he says I am drunk.
 
-John Roberts: Wilt thou speak an untruth before thy lord Bishop:
+[.discourse-part]
+__John Roberts:__ Wilt thou speak an untruth before thy lord Bishop?
 
-Parson Hall: He did say I was drunk, my lord.
+[.discourse-part]
+__Parson Hall:__ He did say I was drunk, my lord.
 
-Bishop: What did you say, John?
+[.discourse-part]
+__Bishop:__ What did you say, John?
 I will believe you.
+
+[.small-break]
+'''
 
 My father repeating what he said before, the bishop held up his hands, and smiling, said,
 "`Did you say so, John?`"
@@ -1552,9 +1874,11 @@ that I came to your house in a Judas like manner,
 and betrayed you hither to send you to prison; for if I had not done what I did,
 people would have reported me an encourager of the Quakers.
 
-John Roberts: If they had, it would have been no discredit to thee.
+[.discourse-part]
+__John Roberts:__ If they had, it would have been no discredit to thee.
 
-Bishop: Come now, John, I will burn your mittimus before your face.
+[.discourse-part]
+__Bishop:__ Come now, John, I will burn your mittimus before your face.
 And now, Mr. Barnet, I have a mind to ask John some questions.
 John, I have heard Mr. Bull say strange things of you;
 that you can tell where to find any thing that is lost as well as any cunning man;
@@ -1562,11 +1886,14 @@ but I desire to hear from your own mouth.
 It was about some cows that a neighbour had lost, and could no where find them,
 till they applied to you.
 
-John Roberts: If thou pleasest to hear me, I will tell thee the truth of that story.
+[.discourse-part]
+__John Roberts:__ If thou pleasest to hear me, I will tell thee the truth of that story.
 
-Bishop: Pray do; I shall believe you, John.
+[.discourse-part]
+__Bishop:__ Pray do; I shall believe you, John.
 
-John Roberts: I had a poor neighbour, who had a wife and six children,
+[.discourse-part]
+__John Roberts:__ I had a poor neighbour, who had a wife and six children,
 and whom the chief men about us permitted to keep six or seven cows upon the waste,
 which were the principal support of his family,
 and preserved them from becoming chargeable to the parish.
@@ -1621,10 +1948,12 @@ as indeed I was, being reverently bowed in my spirit before the Lord,
 in that he was pleased to put the words of truth into my mouth.
 And the man drove his cattle home, to the great joy of his family.
 
-Bishop: I remember another Mr. Bull told me,
-- about a parcel of sheep a neighbour had lost, and you told him where to find them.
+[.discourse-part]
+__Bishop:__ I remember another Mr. Bull told me about a parcel of
+sheep a neighbour had lost, and you told him where to find them.
 
-John Roberts: The truth of the story is this: a neighbour of mine, one John Curtis,
+[.discourse-part]
+__John Roberts:__ The truth of the story is this: a neighbour of mine, one John Curtis,
 at that time a domestic of George Bull`'s, kept some sheep of his own;
 and it so fell out that he had lost them for some days; but happening to see me,
 and knowing I went pretty much abroad,
@@ -1641,9 +1970,11 @@ When I came home I sent him word of it.
 And though this is no more than a common accident,
 I find George Bull hath endeavoured to improve it to my disadvantage.
 
-Bishop: I remember one story more he told me about a horse.
+[.discourse-part]
+__Bishop:__ I remember one story more he told me about a horse.
 
-John Roberts: If I shall not tire thy patience, I will acquaint thee how that was.
+[.discourse-part]
+__John Roberts:__ If I shall not tire thy patience, I will acquaint thee how that was.
 One Edward Symons came from London to see his parents at Siddington.
 They put his horse to grass with their own, in some ground beyond a part of mine,
 called the Fursen Leases, through which they went with the horse;
@@ -1667,11 +1998,11 @@ And where is the cunning of all this?
 It is no more than their own reason might have directed them to,
 had they properly considered the case.
 
-Bishop: I wanted to hear these stories from your own mouth, though I did not,
+[.discourse-part]
+__Bishop:__ I wanted to hear these stories from your own mouth, though I did not,
 nor should I have credited them in the sense Mr. Bull related them.
 But I believe you, John.
 And now, Mr.
-
 Barnet, we will ask John some serious questions.
 
 I can compare him to nothing but a good ring of bells.
@@ -1680,31 +2011,40 @@ a ring of bells may be made of as good metal as can be put into bells;
 but they may be out of tune; so we may say of John;
 he is a man of as good metal as I ever met with, but he is quite out of tune.
 
-John Roberts: Thou mayest well say so; for I cannot tune after thy pipe.
+[.discourse-part]
+__John Roberts:__ Thou mayest well say so; for I cannot tune after thy pipe.
 
-Bishop: Well, I remember to have read, at the preaching of the apostle,
+[.discourse-part]
+__Bishop:__ Well, I remember to have read, at the preaching of the apostle,
 the heart of Lydia was opened.
 Can you tell us what it was that opened the heart of Lydia?
 
-John Roberts: I believe I can.
+[.discourse-part]
+__John Roberts:__ I believe I can.
 
-Bishop: I thought so.
+[.discourse-part]
+__Bishop:__ I thought so.
 I desire you to do it.
 
-John Roberts: It was nothing but the key of David.
+[.discourse-part]
+__John Roberts:__ It was nothing but the key of David.
 
-Bishop: Nay, now John, I think you are going wrong.
+[.discourse-part]
+__Bishop:__ Nay, now John, I think you are going wrong.
 
-John Roberts: If thou pleasest to speak, I will hear thee;
+[.discourse-part]
+__John Roberts:__ If thou pleasest to speak, I will hear thee;
 but if thou wouldst have me to speak, I desire thee to hear me.
 
-Bishop: Come, Mr. Barnet, we will hear John.
+[.discourse-part]
+__Bishop:__ Come, Mr. Barnet, we will hear John.
 
-John Roberts: It is written, "`Thou hast the key of David, which opens,
+[.discourse-part]
+__John Roberts:__ It is written, "`Thou hast the key of David, which opens,
 and none can shut; and if thou shuttest, none can open.`"
 And that is no other but the spirit of our Lord Jesus Christ.
 It was the same spiritual key that opened the heart of Moses,
-the first penman of the Scripture, and gave him a sight of things fi`'om the beginning.
+the first penman of the Scripture, and gave him a sight of things from the beginning.
 It was the same spiritual key that opened the hearts of all the holy patriarchs,
 prophets and apostles, in ages past,
 who left their experience of the things of God upon record; which, if they had not done,
@@ -1717,20 +2057,24 @@ in a measure opened my heart, and given me to distinguish things that differ.
 And it must be the same that must open thy heart,
 if ever thou comest to have it truly opened.
 
-Bishop: It is the truth, the very truth.
+[.discourse-part]
+__Bishop:__ It is the truth, the very truth.
 I never heard it so defined before.
 John, I have done you much wrong; I desire you to forgive me;
 and I will never wrong you more.
 
-John Roberts: I do heartily forgive thee, as far as it is in my power;
+[.discourse-part]
+__John Roberts:__ I do heartily forgive thee, as far as it is in my power;
 and I truly pray the Father of mercies may forgive thee, and make thee his.
 As to the latter part, that thou wilt never wrong me more;
 I am of the same mind with thee, for it is in my heart to tell thee,
 I shall never see thy face any more.
 
-Bishop: I have heard you told once the jailer of Gloucester so, and it proved true.
+[.discourse-part]
+__Bishop:__ I have heard you told once the jailer of Gloucester so, and it proved true.
 
-John Roberts: That jailer had been very cruel to me and the rest of our friends,
+[.discourse-part]
+__John Roberts:__ That jailer had been very cruel to me and the rest of our friends,
 who were then prisoners.
 He had kept us in prison from the session to the assize,
 and from the assize to the session, omitting to put our names in the calendar,
@@ -1772,6 +2116,9 @@ I shall never see his fece any more!
 Soon after it pleased God to take him away by death;
 and in a little time I was had prisoner there again.
 
+[.small-break]
+'''
+
 This was the last conference my father had with the bishop, who died soon after.
 
 Sometime after our friends having been kept out of
@@ -1787,76 +2134,109 @@ desist, desist.`"
 When she had done, Richard Bowly, of Cirencester, went to prayer.
 And when he had done, sir John Guise asked his name.
 
-Richard Bowly: My name is Richard Bowly.
+[.discourse-part]
+__Richard Bowly:__ My name is Richard Bowly.
 
-Sir John Guise: Where do you live?
+[.discourse-part]
+__Sir John Guise:__ Where do you live?
 
-Richard Bowly: In this town.
+[.discourse-part]
+__Richard Bowly:__ In this town.
 
-Sir John Guise:What trade are you?
+[.discourse-part]
+__Sir John Guise:__What trade are you?
 
-Richard Bowly: A maltster.
+[.discourse-part]
+__Richard Bowly:__ A maltster.
 
-Sir John Guise: Set down Richard Bowly twenty pounds for preaching.
+[.discourse-part]
+__Sir John Guise:__ Set down Richard Bowly twenty pounds for preaching.
 Whose house is this?
 
-John Roberts: This house hath many owners.
+[.discourse-part]
+__John Roberts:__ This house hath many owners.
 
-Sir John Guise: But who is the landlord?
+[.discourse-part]
+__Sir John Guise:__ But who is the landlord?
 
-John Roberts: One who is able give us a quiet possession of it.
+[.discourse-part]
+__John Roberts:__ One who is able give us a quiet possession of it.
 
-Sir John Guise: I demand of you who is the landlord of it.
+[.discourse-part]
+__Sir John Guise:__ I demand of you who is the landlord of it.
 
-John Roberts: The king is our landlord.
+[.discourse-part]
+__John Roberts:__ The king is our landlord.
 
-Sir John Guise: How is the king your landlord.
+[.discourse-part]
+__Sir John Guise:__ How is the king your landlord.
 
-John Roberts: It is the king`'s land, and we pay the king`'s auditors.
+[.discourse-part]
+__John Roberts:__ It is the king`'s land, and we pay the king`'s auditors.
 And we are not only his peaceable subjects, but also his good tenants, who pay him rent.
 Therefore we have reason to hope he will give us a peaceable possession of our bargain.
 
-Sir John Guise: Who pays the king`'s auditors?
+[.discourse-part]
+__Sir John Guise:__ Who pays the king`'s auditors?
 
-Richard Bowly: I do.
+[.discourse-part]
+__Richard Bowly:__ I do.
 
-Sir John Guise: Set down Richard Bowly twenty pounds for the house.
+[.discourse-part]
+__Sir John Guise:__ Set down Richard Bowly twenty pounds for the house.
 
-John Roberts:
+[.discourse-part]
+__John Roberts:__
 Who is that (speaking to the other justice) who is
 so forward to take names and levy fines.
 
-Justice Burcher: Do not you know him?
+[.discourse-part]
+__Justice Burcher:__ Do not you know him?
 It is sir John Guise.
 
-Sir John Guise: What is that to you?
+[.discourse-part]
+__Sir John Guise:__ What is that to you?
 What is your name?
 
-John Roberts: I am not ashamed of my name.
+[.discourse-part]
+__John Roberts:__ I am not ashamed of my name.
 But if thy name be John Guise, I knew thy father by a very remarkable incident;
 and I would have thee take warning by thy father.
 A word to the wise is sufficient.
 
-Sir John Guise: Here constable, take this fellow, and lay him by the heels.
+[.discourse-part]
+__Sir John Guise:__ Here constable, take this fellow, and lay him by the heels.
 He affronts me.
 
-John Roberts: My heels, man?
+[.discourse-part]
+__John Roberts:__ My heels, man?
 Fear and dread the living God; I am not afraid of being laid by the heels.
+
+[.small-break]
+'''
+
 The constable not being forward to obey his orders, he took my father by the arm,
 and bid the constable take him by the other.
 So they led him into the street, and bid him to go about his business.
 "`I am about my business,`" said my father; and on their going in again,
 my father followed them.
 
-Sir John Guise: Haywood, I thought I had you out.
+[.discourse-part]
+__Sir John Guise:__ Haywood, I thought I had you out.
 What do you here again?
 
-John Roberts: I come to see how thou behavest amongst my friends,
+[.discourse-part]
+__John Roberts:__ I come to see how thou behavest amongst my friends,
 and if thou dost not behave thyself well, I shall make bold to tell thee of it.
 
-Sir John Guise: I command you in the king`'s name, to go out again.
+[.discourse-part]
+__Sir John Guise:__ I command you in the king`'s name, to go out again.
 
-John Roberts: If thou pleasest to go out first, I will follow.
+[.discourse-part]
+__John Roberts:__ If thou pleasest to go out first, I will follow.
+
+[.small-break]
+'''
 
 With some pains he got all the friends out of the house
 and ordered all the forms to be brought into the street.
@@ -1881,38 +2261,50 @@ When they came before sir John, John Timbrel said,
 "`I heard thou hadst sent out a warrant to bring me before thee,
 but I chose rather to come without it.`"
 
-Sir John: What is your name?
+[.discourse-part]
+__Sir John:__ What is your name?
 
-John Timbrel: My name is John Timbrel.
+[.discourse-part]
+__John Timbrel:__ My name is John Timbrel.
 
-Sir John: Are you that saucy, pragmatic fellow that wrote to Mr. Burcher,
+[.discourse-part]
+__Sir John:__ Are you that saucy, pragmatic fellow that wrote to Mr. Burcher,
 to deter him from executing the king`'s laws!
 
-John Timbrel: I did write a letter to William Burcher.
+[.discourse-part]
+__John Timbrel:__ I did write a letter to William Burcher.
 
-Sir John: Then you deserve a stone doublet.
+[.discourse-part]
+__Sir John:__ Then you deserve a stone doublet.
 
-John Timbrel: Hast thou seen the letter.
+[.discourse-part]
+__John Timbrel:__ Hast thou seen the letter.
 
-Sir John: No, but I have had an account of it.
+[.discourse-part]
+__Sir John:__ No, but I have had an account of it.
 
-John Roberts: Then though thou art but a young man,
+[.discourse-part]
+__John Roberts:__ Then though thou art but a young man,
 I desire thee to show thyself so much a wise man,
 as not to condemn any thing thou hast not seen.
 I have seen a copy of it, and think there is a great deal of good advice in it;
 and I wish both thee and William Burcher were so wise as to take it.
 
-Sir John: I thought you were the writer or inditer of it,
+[.discourse-part]
+__Sir John:__ I thought you were the writer or inditer of it,
 though Timbrel`'s name was to it.
 
-John Roberts: No, I was not.
+[.discourse-part]
+__John Roberts:__ No, I was not.
 I knew nothing of it, till after it was sent.
 
-Sir John: I remember you affronted me the other day before a great number of people,
+[.discourse-part]
+__Sir John:__ I remember you affronted me the other day before a great number of people,
 concerning my father.
 Pray what do you know of my father?
 
-John Roberts: Some time ago,
+[.discourse-part]
+__John Roberts:__ Some time ago,
 several of my friends being met together with me in a peaceable manner, to worship God,
 at Stoke Orchard, thy father came in with a file of musketeers at his heels,
 and beat and abused us very much.
@@ -1936,6 +2328,9 @@ Oh these Quakers!
 Would to God I never had a hand against the Quakers!`"
 I did not hear that he ever spoke more.
 
+[.small-break]
+'''
+
 Sir John seemed surprised at this relation, and did not contradict it in the least;
 which, it is very reasonable to think he would, and with resentment too,
 had it not been true.
@@ -1943,7 +2338,7 @@ Yet notwithstanding this fair warning,
 he continued his practice of granting warrants against us.
 But the officers were generally so civil as to acquaint us with it in time.
 Sometime after this, sir John Guise and sir Robert Atkins being at Perrot`'s Brook,
-two miles from Cirencester, quarrelled as they were gaming.
+two miles from Cirencester, quarreled as they were gaming.
 Sir John drew his sword, and demanded satisfaction;
 but those in the house stepped between and parted them.
 They seeming to appear pacified sat down again.
@@ -1951,25 +2346,39 @@ But afterwards, taking a walk together in the bowling-green,
 the breast of sir John being filled with resentment, he said, "`Sir Robert,
 you gave me the lie; and I will have satisfaction.`"
 
-Sir Robert:
+[.discourse-part]
+__Sir Robert:__
 If I have said any thing more than what is common
 for gentlemen to say to each other in their play,
 betwixt you and I, I ask your pardon.
 
-Sir John: If you will go in and ask it before the people of the house, I will put it up;
+[.discourse-part]
+__Sir John:__ If you will go in and ask it before the people of the house, I will put it up;
 otherwise I will not.
 
-Sir Robert: No, sir John, that is beneath me.
+[.discourse-part]
+__Sir Robert:__ No, sir John, that is beneath me.
 
-Sir John: Then draw, or you shall die like a dog.
+[.discourse-part]
+__Sir John:__ Then draw, or you shall die like a dog.
+
+[.small-break]
+'''
+
 They both drew, and sir Robert gave him a gentle prick in the arm, and said,
 "`I desire you, sir John, to take that for satisfaction.
 I could have had you elsewhere; but was unwilling to do you further mischief`"
 
-Sir John: I will kill or be killed.
+[.discourse-part]
+__Sir John:__ I will kill or be killed.
 
-Sir Robert: If that be your mind, look to yourself as well as you can;
+[.discourse-part]
+__Sir Robert:__ If that be your mind, look to yourself as well as you can;
 for I shall have you at the next pass.
+
+[.small-break]
+'''
+
 And so he had; for he ran him through, in at the belly and out at the back;
 on which he fell.
 Sir Robert stepped up to him, unbuttoned his clothes, tore his shirt down,
@@ -1994,6 +2403,9 @@ And so I do with all my heart.
 And it is true; I could never come into company with Mr. Careless or Mr. Freame,
 but they would be stirring me up to put the laws in execution against dissenters.`"
 
+[.small-break]
+'''
+
 The sword having missed his entrails, he recovered, stood candidate for the county after,
 and never more disturbed our meetings.
 
@@ -2007,7 +2419,8 @@ pleasure to have the laws put in execution;
 and now I take this opportunity to let them and you know,
 that we must all be of one church.`"
 
-John Roberts: Thou oughtest then to be well assured it is the right church.
+[.discourse-part]
+__John Roberts:__ Thou oughtest then to be well assured it is the right church.
 For if thou shouldest be so far permitted to exercise
 the authority thou art entrusted with,
 as to force a man against his conscience, to conform to a wrong church,
@@ -2019,20 +2432,28 @@ but I never read that he whipped any in.
 The window of the room being open, we had a prospect of Cirencester tower;
 and the justice pointing to it, said, "`What do you call that John?`"
 
-John Roberts: Thou mayest call it a daw-house, if thou pleasest.
+[.discourse-part]
+__John Roberts:__ Thou mayest call it a daw-house, if thou pleasest.
 Dost not thou see how the jackdaws flock about it?
 
-Justice: Well, notwithstanding your jesting, I warn you, in the king`'s name,
+[.discourse-part]
+__Justice:__ Well, notwithstanding your jesting, I warn you, in the king`'s name,
 that you meet no more, as you will answer it at your peril.
 
-John Roberts: Then I suppose thou thinkest thou hast done thy duty?
+[.discourse-part]
+__John Roberts:__ Then I suppose thou thinkest thou hast done thy duty?
 
-Justice: Yes.
+[.discourse-part]
+__Justice:__ Yes.
 
-John Roberts: Then I desire thee to give me leave to do my duty.
+[.discourse-part]
+__John Roberts:__ Then I desire thee to give me leave to do my duty.
 And I do now warn thee, in the name of the King of kings, and Lord of lords,
 not to molest or hinder us in the peaceable exercise of our duty to God,
 as thou wilt answer at another day.
+
+[.small-break]
+'''
 
 A little time after this, he sent to the officers,
 to bid them to go to the Quakers`' meeting-house on Sunday next,
@@ -2088,26 +2509,37 @@ the justice undesignedly came by him; and seeing he could not avoid his notice, 
 "`Yes,`" said my father, "`and I hope it will do them good.`"
 "`Well,`" said the justice to the steward, "`pay John.`"
 
-John Roberts: No; I will have none of thy money.
+[.discourse-part]
+__John Roberts:__ No; I will have none of thy money.
 
-Justice: None of my money! why so?
+[.discourse-part]
+__Justice:__ None of my money! why so?
 
-John Roberts: To what purpose is it for me to take a little of thy money by retail,
+[.discourse-part]
+__John Roberts:__ To what purpose is it for me to take a little of thy money by retail,
 and thou wilt come and take my goods by wholesale.
 
-Justice: Do not think your coming to drench and bleed my cattle,
+[.discourse-part]
+__Justice:__ Do not think your coming to drench and bleed my cattle,
 shall deter me from executing the king`'s laws.
 
-John Roberts: It is time enough for thee to deny me a favour when I ask it of thee.
+[.discourse-part]
+__John Roberts:__ It is time enough for thee to deny me a favour when I ask it of thee.
 I seek no favour at thy hands.
 But when thou hast done me all the displeasure thou art permitted to do,
 I will notwithstanding serve thee or thine to the utmost of my power.
 
-Justice: Well, John, you must stay and dine with me.
+[.discourse-part]
+__Justice:__ Well, John, you must stay and dine with me.
 
-John Roberts: Perhaps I shall intrude if I stay, I had rather be excused.
+[.discourse-part]
+__John Roberts:__ Perhaps I shall intrude if I stay, I had rather be excused.
 
-Justice: It is no intrusion, John; you shall stay.
+[.discourse-part]
+__Justice:__ It is no intrusion, John; you shall stay.
+
+[.small-break]
+'''
 
 So my father stayed,
 and presented him with a piece of Thomas Ellwood`'s against persecution; which,
@@ -2131,22 +2563,30 @@ A servant belonging to one of them took off my hat, and laid it on the table.
 I took it and put it on again, saying, I hope a man may keep his hat on in his own house,
 without offence to any man.
 
-Sir Thomas: What is your name?
+[.discourse-part]
+__Sir Thomas:__ What is your name?
 
-Daniel Roberts: Daniel Roberts.
+[.discourse-part]
+__Daniel Roberts:__ Daniel Roberts.
 
-Sir Thomas.
+[.discourse-part]
+__Sir Thomas:__
 Can you swear?
 
-Daniel Roberts: Not that I know of; I never tried.
+[.discourse-part]
+__Daniel Roberts:__ Not that I know of; I never tried.
 
-Sir Thomas: Then you must begin now.
+[.discourse-part]
+__Sir Thomas:__ Then you must begin now.
 
-Daniel Roberts: I think I shall not.
+[.discourse-part]
+__Daniel Roberts:__ I think I shall not.
 
-Sir Thomas: How will you help it?
+[.discourse-part]
+__Sir Thomas:__ How will you help it?
 
-Daniel Roberts: By not doing it.
+[.discourse-part]
+__Daniel Roberts:__ By not doing it.
 But if thou canst convince me by that book in thy
 hand (which was a bible) that it is lawful to swear,
 since Christ forbids it, then I will swear.
@@ -2156,31 +2596,44 @@ Our Saviour says.
 Swear not at all; Thou sayest I must swear.
 Pray which must I obey?
 
-Sir Thomas: Well, Daniel, if you will not swear, you must go to jail.
+[.discourse-part]
+__Sir Thomas:__ Well, Daniel, if you will not swear, you must go to jail.
 
-Daniel Roberts: The will of God be done.
+[.discourse-part]
+__Daniel Roberts:__ The will of God be done.
 For be it known unto you, we had rather be in prison, and enjoy our peace with God,
 than be at liberty, and break our peace with him.
 
-Justice Parsons: I suppose you are one of John Haywood`'s sons?
+[.discourse-part]
+__Justice Parsons:__ I suppose you are one of John Haywood`'s sons?
 
-Daniel Roberts: Yes.
+[.discourse-part]
+__Daniel Roberts:__ Yes.
 
-Justice Parsons I am sorry for that.
+[.discourse-part]
+__Justice Parsons:__ I am sorry for that.
 
-Daniel Roberts: Why art thou sorry for that?
+[.discourse-part]
+__Daniel Roberts:__ Why art thou sorry for that?
 I never heard an honest man speak against my father in my life.
 What hast thou against him?
 
-Sir Thomas: That he is not only misled himself, but he is also a means to mislead others.
+[.discourse-part]
+__Sir Thomas:__ That he is not only misled himself, but he is also a means to mislead others.
 
-Daniel Roberts: If you have nothing against him but his obedience to the law of God,
+[.discourse-part]
+__Daniel Roberts:__ If you have nothing against him but his obedience to the law of God,
 that is no more than the accusers of honest Daniel had against him;
 and that does not concern me.
 
-Sir Thomas: His worshipping God in the way he does, is crime enough.
+[.discourse-part]
+__Sir Thomas:__ His worshipping God in the way he does, is crime enough.
 
-Daniel Roberts: Then I hope I shall be a criminal as long as I live.
+[.discourse-part]
+__Daniel Roberts:__ Then I hope I shall be a criminal as long as I live.
+
+[.small-break]
+'''
 
 Then they seized what goods they pleased, and took them away with them.
 And after they had tendered us oaths twice more, our mittimus was made,
@@ -2236,11 +2689,16 @@ which is twenty miles off.
 If you touch any of her goods by virtue of this warrant, be it at your peril.
 I will assure you if you do, I will stick close to your skirts.`"
 
-Officer: What can be done in this case?
+[.discourse-part]
+__Officer:__ What can be done in this case?
 How can we make a legal return of the warrant without executing it?
 
-Landlord: Carry it back to Mr. Parsons, and tell him +++________+++,
+[.discourse-part]
+__Landlord:__ Carry it back to Mr. Parsons, and tell him +++________+++,
 and I will bear you out in it.
+
+[.small-break]
+'''
 
 So they returned, without giving her any further trouble.
 Another warrant was issued out against Francis Boy, physician, on the same account,
@@ -2297,6 +2755,8 @@ Which, reader,
 if they tend to thy confirmation and encouragement in a course of true Christian piety,
 I have my end; who am thy sincere friend,
 
+[.signed-section-signature]
 Daniel Roberts.
 
+[.signed-section-context-close]
 Chesham, Fourth mo., 1725.
