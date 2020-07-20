@@ -1652,7 +1652,7 @@ I had rather attend on you elsewhere.
 __Bishop:__ Will you come to morrow to Tedbury?
 
 [.discourse-part]
-__John Roberts:__ Yes, if you desires it.
+__John Roberts:__ Yes, if you desire it.
 
 [.discourse-part]
 __Bishop:__ Well I do.
